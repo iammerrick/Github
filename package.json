@@ -1,0 +1,12 @@
+{
+	"name": "Github",
+	"description": "A presentation on Github.",
+	"version": "0.1.0",
+	"author": {
+		"name": "Merrick Christensen",
+		"email": "merrick.christensen@domo.com"
+	},
+	"devDependencies": {
+		"connect": "2.3.2"
+	}
+}
